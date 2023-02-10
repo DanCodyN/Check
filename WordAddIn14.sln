@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordAddIn14", "WordAddIn14\WordAddIn14.csproj", "{C242AF44-00BC-4C6B-82A2-D5AA8EE6DD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C242AF44-00BC-4C6B-82A2-D5AA8EE6DD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C242AF44-00BC-4C6B-82A2-D5AA8EE6DD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C242AF44-00BC-4C6B-82A2-D5AA8EE6DD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C242AF44-00BC-4C6B-82A2-D5AA8EE6DD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF625364-8357-4B17-BF55-FA90E550DE18}
+	EndGlobalSection
+EndGlobal
